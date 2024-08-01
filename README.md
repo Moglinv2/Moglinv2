@@ -4,8 +4,13 @@
 I'm a dedicated software developer with a focus on web and Android automation. My expertise lies in solving intricate problems and delivering efficient, scalable solutions.
 
 ### Technologies & Tools
-- **Programming Languages**: Python (Advanced), NodeJS (Intermediate), PHP (Intermediate)
-- **Tools**: Git (Advanced)
+- **Programming Languages**  
+  - Python (Advanced)  
+  - NodeJS (Intermediate)  
+  - PHP (Intermediate)  
+
+- **Tools**  
+  - Git (Advanced)  
 
 ### Projects
 - **[LicenseChain Telegram Bot](https://github.com/CryptoJoma/LicenseChain-TG-Bot/)**  
@@ -14,14 +19,12 @@ I'm a dedicated software developer with a focus on web and Android automation. M
 - **Coming Soon**: Check back for updates on my upcoming projects. Most of my projects are kept confidential due to their association with earlier experiences in youth entrepreneurship or other ventures I choose to keep discreet.
 
 ### Experience
-- **Freelance Developer**  
-  Self-Employed *(2018 - Present)*  
-  Operating independently since 2018 under my own company, specializing in web and Android automation projects.
+- **DevOps Specialist**  
+  *Self-Employed* *(2018 - Present)*  
+  Leading project management and team coordination for various web and Android automation projects. Overseeing backend development and DevOps practices to ensure efficient workflow and high-quality deliverables.
 
 ### Education
-- **Higher Technician in Software Development**  
-  Instituto Técnico Superior Comunitario (ITSC)  
-- Various online courses and certifications from Udemy, Capacítate para el Empleo, and Platzi.
+For more details about my education, please visit my [LinkedIn profile](https://www.linkedin.com/in/yourprofile).
 
 ### Interests
 I am passionate about developing bots that closely mimic human behavior with a high degree of realism.
