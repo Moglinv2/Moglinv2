@@ -8,7 +8,10 @@ I'm a dedicated software developer with a focus on web and Android automation. M
 - **Tools**: Git (Advanced)
 
 ### Projects
-- **Coming Soon**: Check back for updates on my upcoming projects.
+- **[LicenseChain Telegram Bot](https://github.com/CryptoJoma/LicenseChain-TG-Bot/)**  
+  An unofficial LicenseChain open-source Telegram Bot for authenticating and interacting with the Seller API. It includes functionalities such as generating licenses, managing subscriptions, and handling affiliates. (Developed by a team member, not an official product.)
+
+- **Coming Soon**: Check back for updates on my upcoming projects. Most of my projects are kept confidential due to their association with earlier experiences in youth entrepreneurship or other ventures I choose to keep discreet.
 
 ### Experience
 - **Freelance Developer**  
