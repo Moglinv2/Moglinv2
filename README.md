@@ -24,7 +24,7 @@ I'm a dedicated software developer with a focus on web and Android automation. M
   Leading project management and team coordination for various web and Android automation projects. Overseeing backend development and DevOps practices to ensure efficient workflow and high-quality deliverables.
 
 ### Education
-For more details about my education, please visit my [LinkedIn profile](https://www.linkedin.com/in/yourprofile).
+For more details about my education, please visit my [LinkedIn profile](https://www.linkedin.com/in/SebasthianJaque).
 
 ### Interests
 I am passionate about developing bots that closely mimic human behavior with a high degree of realism.
